@@ -1,0 +1,67 @@
+﻿
+
+@model Person[]
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>title</title>
+</head>
+<body>
+<div>
+    <ul>
+        
+        @foreach (var person in Model)
+        {
+            <li>
+                @Html.Raw(GetFullName(person)) <!--lavet for at få lavet mellemrum -->
+            </li>
+        }
+
+    </ul>
+    
+    @functions
+    {
+        public string GetFullName(Person p)
+        {
+            return $"{p.FirstName} {p.LastName}() <br/>{p.Adress}<br/>{p.Zip} {p.City}";
+        }}
+    
+</div>
+
+<!--
+functions:
+returnerer tekst
+bruges sådan: snabelAGetFUllName(Person p)
+mere “C#-agtig”
+
+sådan gør man ved render metoden
+
+skriver HTML direkte
+returnerer ikke noget
+mere “Razor-agtig”
+<ul>
+    @foreach (var person in Model)
+    {
+        RenderPerson(person);
+    }
+</ul>
+
+@{
+        Layout = null;
+
+        void RenderPerson(Person person)
+        {
+            <li>
+                <strong>@person.FirstName @person.LastName</strong><br />
+                @person.Adress<br />
+                @person.Zip @person.City
+            </li>
+        }
+    } -->
+</body>
+</html>

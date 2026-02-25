@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net10.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Content Include="CheckboxHelpers\.vs\CheckboxHelpers\DesignTimeBuild\.dtbcache.v2" />
+      <Content Include="CheckboxHelpers\.vs\CheckboxHelpers\FileContentIndex\01076a3e-a059-4d2b-af9a-ac1879d555a9.vsidx" />
+      <Content Include="CheckboxHelpers\.vs\CheckboxHelpers\FileContentIndex\e444476e-3147-4dd4-b33a-3086e114b020.vsidx" />
+      <Content Include="CheckboxHelpers\.vs\CheckboxHelpers\FileContentIndex\read.lock" />
+      <Content Include="CheckboxHelpers\.vs\CheckboxHelpers\project-colors.json" />
+      <Content Include="CheckboxHelpers\.vs\CheckboxHelpers\v17\.futdcache.v2" />
+      <Content Include="CheckboxHelpers\.vs\CheckboxHelpers\v17\.suo" />
+      <Content Include="CheckboxHelpers\.vs\ProjectEvaluation\checkboxhelpers.metadata.v7.bin" />
+      <Content Include="CheckboxHelpers\.vs\ProjectEvaluation\checkboxhelpers.projects.v7.bin" />
+      <Content Include="CheckboxHelpers\CheckboxHelpers.sln" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Include="CheckboxHelpers\.vs\CheckboxHelpers\config\applicationhost.config" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="CheckboxHelpers\.vs\CheckboxHelpers\FileContentIndex\merges\" />
+    </ItemGroup>
+
+</Project>

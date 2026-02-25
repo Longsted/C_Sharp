@@ -1,0 +1,14 @@
+C:\Users\niels\RiderProjects\C_Sharp\opgaver\bin\Debug\net10.0\opgaver.exe
+C:\Users\niels\RiderProjects\C_Sharp\opgaver\bin\Debug\net10.0\opgaver.deps.json
+C:\Users\niels\RiderProjects\C_Sharp\opgaver\bin\Debug\net10.0\opgaver.runtimeconfig.json
+C:\Users\niels\RiderProjects\C_Sharp\opgaver\bin\Debug\net10.0\opgaver.dll
+C:\Users\niels\RiderProjects\C_Sharp\opgaver\bin\Debug\net10.0\opgaver.pdb
+C:\Users\niels\RiderProjects\C_Sharp\opgaver\obj\Debug\net10.0\opgaver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niels\RiderProjects\C_Sharp\opgaver\obj\Debug\net10.0\opgaver.AssemblyInfoInputs.cache
+C:\Users\niels\RiderProjects\C_Sharp\opgaver\obj\Debug\net10.0\opgaver.AssemblyInfo.cs
+C:\Users\niels\RiderProjects\C_Sharp\opgaver\obj\Debug\net10.0\opgaver.csproj.CoreCompileInputs.cache
+C:\Users\niels\RiderProjects\C_Sharp\opgaver\obj\Debug\net10.0\opgaver.dll
+C:\Users\niels\RiderProjects\C_Sharp\opgaver\obj\Debug\net10.0\refint\opgaver.dll
+C:\Users\niels\RiderProjects\C_Sharp\opgaver\obj\Debug\net10.0\opgaver.pdb
+C:\Users\niels\RiderProjects\C_Sharp\opgaver\obj\Debug\net10.0\opgaver.genruntimeconfig.cache
+C:\Users\niels\RiderProjects\C_Sharp\opgaver\obj\Debug\net10.0\ref\opgaver.dll

@@ -1,0 +1,11 @@
+C:\Users\niels\RiderProjects\C_Sharp\myLibrary\bin\Debug\net10.0\myLibrary.deps.json
+C:\Users\niels\RiderProjects\C_Sharp\myLibrary\bin\Debug\net10.0\myLibrary.dll
+C:\Users\niels\RiderProjects\C_Sharp\myLibrary\bin\Debug\net10.0\myLibrary.pdb
+C:\Users\niels\RiderProjects\C_Sharp\myLibrary\obj\Debug\net10.0\myLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niels\RiderProjects\C_Sharp\myLibrary\obj\Debug\net10.0\myLibrary.AssemblyInfoInputs.cache
+C:\Users\niels\RiderProjects\C_Sharp\myLibrary\obj\Debug\net10.0\myLibrary.AssemblyInfo.cs
+C:\Users\niels\RiderProjects\C_Sharp\myLibrary\obj\Debug\net10.0\myLibrary.csproj.CoreCompileInputs.cache
+C:\Users\niels\RiderProjects\C_Sharp\myLibrary\obj\Debug\net10.0\myLibrary.dll
+C:\Users\niels\RiderProjects\C_Sharp\myLibrary\obj\Debug\net10.0\refint\myLibrary.dll
+C:\Users\niels\RiderProjects\C_Sharp\myLibrary\obj\Debug\net10.0\myLibrary.pdb
+C:\Users\niels\RiderProjects\C_Sharp\myLibrary\obj\Debug\net10.0\ref\myLibrary.dll

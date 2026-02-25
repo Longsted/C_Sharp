@@ -1,0 +1,14 @@
+C:\Users\niels\RiderProjects\C_Sharp\opgave4_6\bin\Debug\net10.0\opgave4_6.exe
+C:\Users\niels\RiderProjects\C_Sharp\opgave4_6\bin\Debug\net10.0\opgave4_6.deps.json
+C:\Users\niels\RiderProjects\C_Sharp\opgave4_6\bin\Debug\net10.0\opgave4_6.runtimeconfig.json
+C:\Users\niels\RiderProjects\C_Sharp\opgave4_6\bin\Debug\net10.0\opgave4_6.dll
+C:\Users\niels\RiderProjects\C_Sharp\opgave4_6\bin\Debug\net10.0\opgave4_6.pdb
+C:\Users\niels\RiderProjects\C_Sharp\opgave4_6\obj\Debug\net10.0\opgave4_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niels\RiderProjects\C_Sharp\opgave4_6\obj\Debug\net10.0\opgave4_6.AssemblyInfoInputs.cache
+C:\Users\niels\RiderProjects\C_Sharp\opgave4_6\obj\Debug\net10.0\opgave4_6.AssemblyInfo.cs
+C:\Users\niels\RiderProjects\C_Sharp\opgave4_6\obj\Debug\net10.0\opgave4_6.csproj.CoreCompileInputs.cache
+C:\Users\niels\RiderProjects\C_Sharp\opgave4_6\obj\Debug\net10.0\opgave4_6.dll
+C:\Users\niels\RiderProjects\C_Sharp\opgave4_6\obj\Debug\net10.0\refint\opgave4_6.dll
+C:\Users\niels\RiderProjects\C_Sharp\opgave4_6\obj\Debug\net10.0\opgave4_6.pdb
+C:\Users\niels\RiderProjects\C_Sharp\opgave4_6\obj\Debug\net10.0\opgave4_6.genruntimeconfig.cache
+C:\Users\niels\RiderProjects\C_Sharp\opgave4_6\obj\Debug\net10.0\ref\opgave4_6.dll

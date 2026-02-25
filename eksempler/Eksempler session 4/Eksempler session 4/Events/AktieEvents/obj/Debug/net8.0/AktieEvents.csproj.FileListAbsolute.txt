@@ -1,0 +1,14 @@
+C:\Users\klbo\OneDrive - EFIF\DotNet\F25\Session 4\Eksempler session 4\Events\AktieEvents\bin\Debug\net8.0\AktieEvents.exe
+C:\Users\klbo\OneDrive - EFIF\DotNet\F25\Session 4\Eksempler session 4\Events\AktieEvents\bin\Debug\net8.0\AktieEvents.deps.json
+C:\Users\klbo\OneDrive - EFIF\DotNet\F25\Session 4\Eksempler session 4\Events\AktieEvents\bin\Debug\net8.0\AktieEvents.runtimeconfig.json
+C:\Users\klbo\OneDrive - EFIF\DotNet\F25\Session 4\Eksempler session 4\Events\AktieEvents\bin\Debug\net8.0\AktieEvents.dll
+C:\Users\klbo\OneDrive - EFIF\DotNet\F25\Session 4\Eksempler session 4\Events\AktieEvents\bin\Debug\net8.0\AktieEvents.pdb
+C:\Users\klbo\OneDrive - EFIF\DotNet\F25\Session 4\Eksempler session 4\Events\AktieEvents\obj\Debug\net8.0\AktieEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klbo\OneDrive - EFIF\DotNet\F25\Session 4\Eksempler session 4\Events\AktieEvents\obj\Debug\net8.0\AktieEvents.AssemblyInfoInputs.cache
+C:\Users\klbo\OneDrive - EFIF\DotNet\F25\Session 4\Eksempler session 4\Events\AktieEvents\obj\Debug\net8.0\AktieEvents.AssemblyInfo.cs
+C:\Users\klbo\OneDrive - EFIF\DotNet\F25\Session 4\Eksempler session 4\Events\AktieEvents\obj\Debug\net8.0\AktieEvents.csproj.CoreCompileInputs.cache
+C:\Users\klbo\OneDrive - EFIF\DotNet\F25\Session 4\Eksempler session 4\Events\AktieEvents\obj\Debug\net8.0\AktieEvents.dll
+C:\Users\klbo\OneDrive - EFIF\DotNet\F25\Session 4\Eksempler session 4\Events\AktieEvents\obj\Debug\net8.0\refint\AktieEvents.dll
+C:\Users\klbo\OneDrive - EFIF\DotNet\F25\Session 4\Eksempler session 4\Events\AktieEvents\obj\Debug\net8.0\AktieEvents.pdb
+C:\Users\klbo\OneDrive - EFIF\DotNet\F25\Session 4\Eksempler session 4\Events\AktieEvents\obj\Debug\net8.0\AktieEvents.genruntimeconfig.cache
+C:\Users\klbo\OneDrive - EFIF\DotNet\F25\Session 4\Eksempler session 4\Events\AktieEvents\obj\Debug\net8.0\ref\AktieEvents.dll

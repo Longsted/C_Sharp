@@ -1,0 +1,95 @@
+﻿@model musicstore.Models.Product[]
+@using musicstore.Models
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            font-family: Arial;
+            margin: 40px;
+        }
+
+        .container {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            gap: 60px;
+        }
+
+        .column {
+            width: 30%;
+        }
+
+        img {
+            width: 220px;
+            margin-top: 10px;
+        }
+
+        h2 {
+            margin-bottom: 5px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+
+    <!-- VENSTRE : BOOK -->
+    <div class="column">
+        @foreach (var p in Model)
+        {
+            if (p is Book book)
+            {
+                <h2>@book.Title</h2>
+                <p>Author: @book.Author</p>
+                <p>Price: @book.Price</p>
+                <p>Publisher: @book.Publisher (@book.Published)</p>
+                <p>ISBN: @book.ISBN</p>
+
+                <img src="@Url.Content(book.ImageUrl)" />
+            }
+        }
+    </div>
+
+    <!-- MIDTEN : MUSIC CD -->
+    <div class="column">
+        @foreach (var p in Model)
+        {
+            if (p is MusicCD cd)
+            {
+                <h2>@cd.Title</h2>
+                <p>Artist: @cd.Artist</p>
+                <p>Price: @cd.Price</p>
+                <p>Label: @cd.Label (@cd.Released)</p>
+
+                <img src="@Url.Content(cd.ImageUrl)" />
+            }
+        }
+    </div>
+
+    <!-- HØJRE : TRACKS -->
+    <div class="column">
+        @foreach (var p in Model)
+        {
+            if (p is MusicCD cd)
+            {
+                <h3>Tracks</h3>
+                <ol>
+                    @foreach (var track in cd.Tracks)
+                    {
+                        <li>@track</li>
+                    }
+                </ol>
+            }
+        }
+    </div>
+
+</div>
+
+</body>
+</html>

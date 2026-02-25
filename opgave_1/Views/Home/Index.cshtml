@@ -1,0 +1,16 @@
+﻿@model opgave_1.Models.Person
+
+@{
+    Layout = null;
+}
+<h1> My first view </h1>
+
+<p>@Model.Name</p>
+<p> @Model.Age </p>
+<p>@Model.Birthday.ToShortDateString()</p>
+
+@* *@
+@* <p>navn:  @ViewBag.Name</p> *@
+@* <p>alder:  @ViewBag.Age </p> *@
+@* <p>fødselsdag:  *@
+@*     @ViewBag.Birthday.ToString("dd-MM-yyyy")</p> *@

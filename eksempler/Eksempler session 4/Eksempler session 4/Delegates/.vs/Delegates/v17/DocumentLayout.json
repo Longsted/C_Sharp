@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\klbo\\OneDrive - EFIF\\DotNet\\E24\\Session 4\\Eksempler session 4\\Delegates\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB27865E-ED1E-4237-8FF5-42585210103E}|Delegates\\Delegates.csproj|c:\\users\\klbo\\onedrive - efif\\dotnet\\e24\\session 4\\eksempler session 4\\delegates\\delegates\\delegatesandlambdas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB27865E-ED1E-4237-8FF5-42585210103E}|Delegates\\Delegates.csproj|solutionrelative:delegates\\delegatesandlambdas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB27865E-ED1E-4237-8FF5-42585210103E}|Delegates\\Delegates.csproj|C:\\Users\\klbo\\OneDrive - EFIF\\DotNet\\E24\\Session 4\\Eksempler session 4\\Delegates\\delegates\\util_refparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB27865E-ED1E-4237-8FF5-42585210103E}|Delegates\\Delegates.csproj|solutionrelative:delegates\\util_refparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB27865E-ED1E-4237-8FF5-42585210103E}|Delegates\\Delegates.csproj|C:\\Users\\klbo\\OneDrive - EFIF\\DotNet\\E24\\Session 4\\Eksempler session 4\\Delegates\\delegates\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB27865E-ED1E-4237-8FF5-42585210103E}|Delegates\\Delegates.csproj|solutionrelative:delegates\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB27865E-ED1E-4237-8FF5-42585210103E}|Delegates\\Delegates.csproj|C:\\Users\\klbo\\OneDrive - EFIF\\DotNet\\E24\\Session 4\\Eksempler session 4\\Delegates\\delegates\\program_refparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB27865E-ED1E-4237-8FF5-42585210103E}|Delegates\\Delegates.csproj|solutionrelative:delegates\\program_refparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB27865E-ED1E-4237-8FF5-42585210103E}|Delegates\\Delegates.csproj|C:\\Users\\klbo\\OneDrive - EFIF\\DotNet\\E24\\Session 4\\Eksempler session 4\\Delegates\\delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB27865E-ED1E-4237-8FF5-42585210103E}|Delegates\\Delegates.csproj|solutionrelative:delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program_refparameters.cs",
+              "DocumentMoniker": "C:\\Users\\klbo\\OneDrive - EFIF\\DotNet\\E24\\Session 4\\Eksempler session 4\\Delegates\\Delegates\\Program_refparameters.cs",
+              "RelativeDocumentMoniker": "Delegates\\Program_refparameters.cs",
+              "ToolTip": "C:\\Users\\klbo\\OneDrive - EFIF\\DotNet\\E24\\Session 4\\Eksempler session 4\\Delegates\\Delegates\\Program_refparameters.cs",
+              "RelativeToolTip": "Delegates\\Program_refparameters.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:06:21.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Util_refparameters.cs",
+              "DocumentMoniker": "C:\\Users\\klbo\\OneDrive - EFIF\\DotNet\\E24\\Session 4\\Eksempler session 4\\Delegates\\Delegates\\Util_refparameters.cs",
+              "RelativeDocumentMoniker": "Delegates\\Util_refparameters.cs",
+              "ToolTip": "C:\\Users\\klbo\\OneDrive - EFIF\\DotNet\\E24\\Session 4\\Eksempler session 4\\Delegates\\Delegates\\Util_refparameters.cs",
+              "RelativeToolTip": "Delegates\\Util_refparameters.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:06:21.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DelegatesAndLambdas.cs",
+              "DocumentMoniker": "C:\\Users\\klbo\\OneDrive - EFIF\\DotNet\\E24\\Session 4\\Eksempler session 4\\Delegates\\Delegates\\DelegatesAndLambdas.cs",
+              "RelativeDocumentMoniker": "Delegates\\DelegatesAndLambdas.cs",
+              "ToolTip": "C:\\Users\\klbo\\OneDrive - EFIF\\DotNet\\E24\\Session 4\\Eksempler session 4\\Delegates\\Delegates\\DelegatesAndLambdas.cs",
+              "RelativeToolTip": "Delegates\\DelegatesAndLambdas.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:06:21.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Util.cs",
+              "DocumentMoniker": "C:\\Users\\klbo\\OneDrive - EFIF\\DotNet\\E24\\Session 4\\Eksempler session 4\\Delegates\\Delegates\\Util.cs",
+              "RelativeDocumentMoniker": "Delegates\\Util.cs",
+              "ToolTip": "C:\\Users\\klbo\\OneDrive - EFIF\\DotNet\\E24\\Session 4\\Eksempler session 4\\Delegates\\Delegates\\Util.cs",
+              "RelativeToolTip": "Delegates\\Util.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:06:21.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\klbo\\OneDrive - EFIF\\DotNet\\E24\\Session 4\\Eksempler session 4\\Delegates\\Delegates\\Program.cs",
+              "RelativeDocumentMoniker": "Delegates\\Program.cs",
+              "ToolTip": "C:\\Users\\klbo\\OneDrive - EFIF\\DotNet\\E24\\Session 4\\Eksempler session 4\\Delegates\\Delegates\\Program.cs",
+              "RelativeToolTip": "Delegates\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:06:21.53Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

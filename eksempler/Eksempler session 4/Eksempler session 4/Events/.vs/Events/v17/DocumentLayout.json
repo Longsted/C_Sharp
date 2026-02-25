@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\klbo\\OneDrive - EFIF\\DotNet\\F25\\Session 4\\Eksempler session 4\\Events\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{303C036F-8536-4D6B-8E25-D83DAC8157E3}|AktieEvents\\AktieEvents.csproj|C:\\Users\\klbo\\OneDrive - EFIF\\DotNet\\F25\\Session 4\\Eksempler session 4\\Events\\aktieevents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303C036F-8536-4D6B-8E25-D83DAC8157E3}|AktieEvents\\AktieEvents.csproj|solutionrelative:aktieevents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303C036F-8536-4D6B-8E25-D83DAC8157E3}|AktieEvents\\AktieEvents.csproj|C:\\Users\\klbo\\OneDrive - EFIF\\DotNet\\F25\\Session 4\\Eksempler session 4\\Events\\aktieevents\\aktie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303C036F-8536-4D6B-8E25-D83DAC8157E3}|AktieEvents\\AktieEvents.csproj|solutionrelative:aktieevents\\aktie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303C036F-8536-4D6B-8E25-D83DAC8157E3}|AktieEvents\\AktieEvents.csproj|c:\\users\\klbo\\onedrive - efif\\dotnet\\f25\\session 4\\eksempler session 4\\events\\aktieevents\\aktieeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303C036F-8536-4D6B-8E25-D83DAC8157E3}|AktieEvents\\AktieEvents.csproj|solutionrelative:aktieevents\\aktieeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AktieEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\klbo\\OneDrive - EFIF\\DotNet\\F25\\Session 4\\Eksempler session 4\\Events\\AktieEvents\\AktieEventArgs.cs",
+              "RelativeDocumentMoniker": "AktieEvents\\AktieEventArgs.cs",
+              "ToolTip": "C:\\Users\\klbo\\OneDrive - EFIF\\DotNet\\F25\\Session 4\\Eksempler session 4\\Events\\AktieEvents\\AktieEventArgs.cs",
+              "RelativeToolTip": "AktieEvents\\AktieEventArgs.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:10:12.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Aktie.cs",
+              "DocumentMoniker": "C:\\Users\\klbo\\OneDrive - EFIF\\DotNet\\F25\\Session 4\\Eksempler session 4\\Events\\AktieEvents\\Aktie.cs",
+              "RelativeDocumentMoniker": "AktieEvents\\Aktie.cs",
+              "ToolTip": "C:\\Users\\klbo\\OneDrive - EFIF\\DotNet\\F25\\Session 4\\Eksempler session 4\\Events\\AktieEvents\\Aktie.cs",
+              "RelativeToolTip": "AktieEvents\\Aktie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T08:56:13.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\klbo\\OneDrive - EFIF\\DotNet\\F25\\Session 4\\Eksempler session 4\\Events\\AktieEvents\\Program.cs",
+              "RelativeDocumentMoniker": "AktieEvents\\Program.cs",
+              "ToolTip": "C:\\Users\\klbo\\OneDrive - EFIF\\DotNet\\F25\\Session 4\\Eksempler session 4\\Events\\AktieEvents\\Program.cs",
+              "RelativeToolTip": "AktieEvents\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T08:55:33.708Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

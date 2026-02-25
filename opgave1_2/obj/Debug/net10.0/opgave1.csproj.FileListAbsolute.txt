@@ -1,0 +1,14 @@
+C:\Users\niels\RiderProjects\C_Sharp\opgave1\bin\Debug\net10.0\opgave1.exe
+C:\Users\niels\RiderProjects\C_Sharp\opgave1\bin\Debug\net10.0\opgave1.deps.json
+C:\Users\niels\RiderProjects\C_Sharp\opgave1\bin\Debug\net10.0\opgave1.runtimeconfig.json
+C:\Users\niels\RiderProjects\C_Sharp\opgave1\bin\Debug\net10.0\opgave1.dll
+C:\Users\niels\RiderProjects\C_Sharp\opgave1\bin\Debug\net10.0\opgave1.pdb
+C:\Users\niels\RiderProjects\C_Sharp\opgave1\obj\Debug\net10.0\opgave1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niels\RiderProjects\C_Sharp\opgave1\obj\Debug\net10.0\opgave1.AssemblyInfoInputs.cache
+C:\Users\niels\RiderProjects\C_Sharp\opgave1\obj\Debug\net10.0\opgave1.AssemblyInfo.cs
+C:\Users\niels\RiderProjects\C_Sharp\opgave1\obj\Debug\net10.0\opgave1.csproj.CoreCompileInputs.cache
+C:\Users\niels\RiderProjects\C_Sharp\opgave1\obj\Debug\net10.0\opgave1.dll
+C:\Users\niels\RiderProjects\C_Sharp\opgave1\obj\Debug\net10.0\refint\opgave1.dll
+C:\Users\niels\RiderProjects\C_Sharp\opgave1\obj\Debug\net10.0\opgave1.pdb
+C:\Users\niels\RiderProjects\C_Sharp\opgave1\obj\Debug\net10.0\opgave1.genruntimeconfig.cache
+C:\Users\niels\RiderProjects\C_Sharp\opgave1\obj\Debug\net10.0\ref\opgave1.dll

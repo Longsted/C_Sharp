@@ -1,0 +1,38 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>lommeregner</title>
+</head>
+<body>
+@using (Html.BeginForm())
+{
+    <h1>Simple Calculator </h1>
+    <div>
+        @Html.TextBox("first", (string)ViewBag.first)
+        <p></p>
+
+        @Html.TextBox("second",(string)ViewBag.second)
+        
+        <p></p>
+        <div>
+            <button name="operator" value="+"> + </button>
+            <button name="operator" value="-"> - </button>
+            <button name="operator" value="*"> * </button>
+            <button name="operator" value="/"> / </button>  
+        </div>
+        
+
+        <p>result is: @ViewBag.Number</p>
+
+
+    </div>  
+}
+
+</body>
+</html>

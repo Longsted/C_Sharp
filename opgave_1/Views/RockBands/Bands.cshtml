@@ -1,0 +1,15 @@
+﻿@{
+    Layout = null;
+}
+@{
+    var bands = ViewBag.bands as string[];
+}
+<h1>gode rockbands </h1>
+
+<ol>
+@foreach (var band in bands)
+{
+    <li>@band </li>
+}
+    
+</ol>
