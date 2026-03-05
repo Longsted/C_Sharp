@@ -1,0 +1,14 @@
+﻿@model IEnumerable<Person>
+
+@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+@foreach (var per in Model)
+{
+@*     @await Html.PartialAsync("_VisEnPerson",p) *@
+@await Component.InvokeAsync("VisEnPerson", new{p = per} )
+     }
+
+
+<h2>title</h2>

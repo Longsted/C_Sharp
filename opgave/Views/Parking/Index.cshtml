@@ -1,0 +1,51 @@
+﻿@using System.ComponentModel
+@using opgave.Controllers
+@model opgave.Models.ParkingTicketMachine;
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>title</title>
+</head>
+<body>
+<h1>Parking ticket machine</h1>
+<div>
+    @using (Html.BeginForm("Index","Parking",FormMethod.Post))
+    {
+        
+        @* @Html.HiddenFor(x=> x.AmountInserted, new {Value="5"}) *@
+        <input Name="AmountInserted" type="hidden" value=@Model.AmountInserted>
+        @* @Html.HiddenFor(p=> p.TimeNow); *@
+        <input name="TimeNow" type="hidden" value="@Model.TimeNow">
+        @Html.LabelFor(p => p.TimeNow)
+        @Html.DisplayFor(p => p.TimeNow)
+        <br>
+        @Html.LabelFor(p => p.PaidUntil)
+        @Html.DisplayFor(p => p.PaidUntil)
+        <br>
+        <label name="info">info: @ViewBag.info </label>
+        
+        <br>
+        @Html.LabelFor(p => p.AmountInserted)
+        @Html.DisplayFor(p => p.AmountInserted)
+        
+    
+        <h3> Coin insert </h3>
+        
+        @foreach (var navn in Model.CoinsToInsert)
+        {
+            <button type="submit" name="coin" Value="@navn">@navn kr </button>
+        }
+        <br>
+        <button type="submit" Value="confirm" Name="confirm">confirm </button>
+        <button type="submit" Value="deny" Name="cancel">cancel </button>        
+    }
+    
+</div>
+</body>
+</html>

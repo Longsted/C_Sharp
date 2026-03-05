@@ -1,0 +1,26 @@
+﻿@model opgave.Models.ParkingTicketMachine;
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Parking</title>
+</head>
+<body>
+<div>
+    <h1>Parking ticket </h1>
+    @using (Html.BeginForm("Index", "Parking", FormMethod.Get))
+    {
+        <label>Time issued:  </label>
+        @Html.DisplayFor(p => p.TimeNow);
+        <br>
+        <label> Parking paid until: </label>
+        @Html.DisplayFor(p => p.PaidUntil)
+    }
+</div>
+</body>
+</html>

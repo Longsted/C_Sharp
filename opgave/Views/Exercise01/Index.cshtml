@@ -1,0 +1,47 @@
+﻿@using Microsoft.AspNetCore.Mvc.Rendering
+
+
+@{
+    Layout = null;
+}
+
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <title>title</title>
+</head>
+<body>
+<div>
+    
+    @using (Html.BeginForm("Index","Exercise01",FormMethod.Get))
+    {
+            
+        @Html.DropDownList("countries",ViewBag.countries as IEnumerable<SelectListItem>);   
+        <button type="submit"> show country code </button>
+        if (ViewBag.countryCode != null)
+        {
+            <p>
+            <strong>Country code: </strong>@ViewBag.countryCode
+            </p>
+        }
+
+     
+    }
+    @using (Html.BeginForm("Index", "Exercise01", FormMethod.Post))
+    {
+        <input type="text" name="countryName">
+        <input type="text" name="code">
+        <button type="submit">Add </button>
+      
+      
+        
+    }
+    
+    
+</div>
+</body>
+</html>
+
+

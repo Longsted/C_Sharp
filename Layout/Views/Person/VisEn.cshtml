@@ -1,0 +1,9 @@
+﻿@model Person
+
+@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+@* @await Html.PartialAsync("_VisEnPerson") *@
+  @await Component.InvokeAsync("VisEnPerson", new{p = Model})
+<h2>title</h2>
