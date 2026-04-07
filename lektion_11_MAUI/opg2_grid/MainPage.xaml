@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="opg2_grid.MainPage">
+
+   
+    <Grid>
+              <Grid.RowDefinitions>
+                  <RowDefinition Height="50"/>
+                  <RowDefinition Height="50"/>
+                  </Grid.RowDefinitions>
+              
+               <Grid.ColumnDefinitions>
+                   <ColumnDefinition Width="*"/>
+                   <ColumnDefinition Width="*"/>
+                   <ColumnDefinition Width="*"/>
+               </Grid.ColumnDefinitions>
+             
+              <Label Text="Batman"
+                     x:Name="l1"
+                     Grid.Row="0"
+                     Grid.Column="0"
+                     HorizontalOptions="Center"
+              />
+              <Button Text="ombyt øverste"
+                      x:Name="upper"
+                      Grid.Row="0"
+                      Grid.Column="1"
+                      HorizontalOptions="Center"
+                      Clicked="Button_OnClicked"/>
+              
+                  <Label Text="Robin"
+                         x:Name="r1"
+                          Grid.Row="0"
+                          Grid.Column="2"
+                          HorizontalOptions="Center"/>
+              <Label Text="Hulk"
+                     x:Name="l2"
+                     Grid.Row="1"
+                     Grid.Column="0"
+                     HorizontalOptions="Center"/>
+              <Button Text="ombyt nederste"
+                      x:Name="lower"
+                      Grid.Row="1"
+                      Grid.Column="1"
+                      HorizontalOptions="Center"
+                      Clicked="Button_OnClicked"/>
+              <Label Text="Fantomet"
+                     x:Name="r2"
+                     Grid.Row="1"
+                     Grid.Column="2"
+                     HorizontalOptions="Center"/>
+              
+    </Grid>
+    
+
+</ContentPage>

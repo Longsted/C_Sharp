@@ -12,3 +12,4 @@ C:\Users\niels\RiderProjects\C_Sharp\opgaver\obj\Debug\net10.0\refint\opgaver.dl
 C:\Users\niels\RiderProjects\C_Sharp\opgaver\obj\Debug\net10.0\opgaver.pdb
 C:\Users\niels\RiderProjects\C_Sharp\opgaver\obj\Debug\net10.0\opgaver.genruntimeconfig.cache
 C:\Users\niels\RiderProjects\C_Sharp\opgaver\obj\Debug\net10.0\ref\opgaver.dll
+C:\Users\niels\RiderProjects\C_Sharp\opgaver\obj\Debug\net10.0\opgaver.sourcelink.json

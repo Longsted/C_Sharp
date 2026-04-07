@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
+             x:Class="opg6DockLayout.MainPage">
+
+    <toolkit:DockLayout>
+        <Button toolkit:DockLayout.DockPosition="Top" Text="Nord" HeightRequest="" Clicked="Button_OnClicked"></Button>
+        <Button toolkit:DockLayout.DockPosition="Right" Text="Øst" WidthRequest="" Clicked="Button_OnClicked"></Button>
+        <Button toolkit:DockLayout.DockPosition="Bottom" Text="Syd" HeightRequest="" Clicked="Button_OnClicked"></Button>
+        <Button toolkit:DockLayout.DockPosition="Left" Text="Vest" WidthRequest="" Clicked="Button_OnClicked"></Button>
+        <Editor x:Name="Editor" HorizontalTextAlignment="Center"/>
+    </toolkit:DockLayout>
+  
+
+</ContentPage>

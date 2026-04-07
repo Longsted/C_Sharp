@@ -1,0 +1,19 @@
+﻿@model Domain.Studerende
+
+<h2>Rediger</h2>
+
+<form method="post">
+    <input type="hidden" name="Id" value="@Model.Id" />
+
+    <input name="Navn" value="@Model.Navn" />
+    <input name="Alder" type="number" value="@Model.Alder" />
+    <input name="StudieStart" type="date" value="@Model.StudieStart.ToString("yyyy-MM-dd")" />
+
+    <select name="StudieType">
+        <option value="BACHELOR">Bachelor</option>
+        
+        <option value="MASTER">Master</option>
+    </select>
+
+    <button type="submit">Gem</button>
+</form>

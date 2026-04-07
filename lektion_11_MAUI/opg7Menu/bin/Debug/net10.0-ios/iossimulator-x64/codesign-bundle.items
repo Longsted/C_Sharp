@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_CodesignBundle Include="opg7Menu.app">
+      <EnableCodeSigning>true</EnableCodeSigning>
+      <CodesignSigningKey></CodesignSigningKey>
+      <CodesignEntitlements></CodesignEntitlements>
+      <CodesignUseSecureTimestamp></CodesignUseSecureTimestamp>
+      <CodesignAllocate></CodesignAllocate>
+      <CodesignExtraArgs></CodesignExtraArgs>
+      <CodesignResourceRules></CodesignResourceRules>
+      <CodesignDisableTimestamp>true</CodesignDisableTimestamp>
+      <CodesignKeychain></CodesignKeychain>
+      <CodesignUseHardenedRuntime></CodesignUseHardenedRuntime>
+      <SourceProjectPath>C:\Users\niels\RiderProjects\C_Sharp\lektion_11_MAUI\opg7Menu</SourceProjectPath>
+    </_CodesignBundle>
+  </ItemGroup>
+</Project>

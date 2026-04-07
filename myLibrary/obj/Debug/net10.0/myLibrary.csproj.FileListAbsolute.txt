@@ -9,3 +9,4 @@ C:\Users\niels\RiderProjects\C_Sharp\myLibrary\obj\Debug\net10.0\myLibrary.dll
 C:\Users\niels\RiderProjects\C_Sharp\myLibrary\obj\Debug\net10.0\refint\myLibrary.dll
 C:\Users\niels\RiderProjects\C_Sharp\myLibrary\obj\Debug\net10.0\myLibrary.pdb
 C:\Users\niels\RiderProjects\C_Sharp\myLibrary\obj\Debug\net10.0\ref\myLibrary.dll
+C:\Users\niels\RiderProjects\C_Sharp\myLibrary\obj\Debug\net10.0\myLibrary.sourcelink.json

@@ -1,0 +1,15 @@
+﻿@model List<Domain.Hold>
+
+<h2>Hold</h2>
+
+<a href="/Hold/Create">Opret hold</a>
+
+<ul>
+    @foreach (var h in Model)
+    {
+        <li>
+            @h.Navn
+            <a href="/Hold/Details/@h.Id">Se</a>
+        </li>
+    }
+</ul>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="opg7Menu.opg9">
+    <ContentPage.Content>
+        <Grid Padding="20"
+              ColumnDefinitions="*,Auto,*"
+              RowDefinitions="Auto,*,Auto">
+            <VerticalStackLayout Grid.Column="0" Spacing="10">
+                <Entry x:Name="LEntry"/>
+                <Button x:Name="btnLeftAdd" Text="Add"/>
+                <Picker x:Name="leftPicker"/>
+                <Button x:Name="LeftClear" Text="Clear" HorizontalOptions="Center" />
+                </VerticalStackLayout>
+            
+                <VerticalStackLayout Grid.Column="1"
+                                     VerticalOptions="Center"
+                                     Spacing="10">
+                <Button x:Name="btnCenter1" Text="==&gt;" WidthRequest="70"/>
+                <Button x:Name="btnCenter2" Text="&lt;=="  WidthRequest="70"/>
+
+                </VerticalStackLayout>
+            <VerticalStackLayout Grid.Column="2"
+                                 Spacing="10">
+                <Entry x:Name="REntry"/>
+                <Button x:Name="btnRightAdd" Text="Add"/>
+                <Picker x:Name="RightPicker"/>
+                <Button x:Name="RightClear" Text="Clear" HorizontalOptions="Center"/>
+                
+            </VerticalStackLayout>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

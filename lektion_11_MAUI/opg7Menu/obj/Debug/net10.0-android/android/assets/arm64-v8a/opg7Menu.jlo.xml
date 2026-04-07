@@ -1,0 +1,15 @@
+<api>
+  <jcw-types>
+    <type name="MainActivity" package="crc64a0464151aec2d80b" application_java_class="android.app.Application" mono_runtime_initialization="mono.MonoPackageManager.LoadApplication (context);" extends_type="crc6488302ad6e9e4df1a.MauiAppCompatActivity" partial_assembly_qualified_name="opg7Menu.MainActivity, opg7Menu">
+      <constructors>
+        <constructor name="MainActivity" method="n_.ctor:()V:" jni_signature="()V" managed_parameters="" retval="void" is_dynamically_registered="True" />
+        <constructor name="MainActivity" method="n_.ctor:(I)V:" jni_signature="(I)V" managed_parameters="System.Int32, System.Private.CoreLib" params="int p0" retval="void" is_dynamically_registered="True" super_call="p0" activate_call="p0" />
+      </constructors>
+    </type>
+    <type name="MainApplication" package="crc64a0464151aec2d80b" application_java_class="android.app.Application" mono_runtime_initialization="mono.MonoPackageManager.LoadApplication (context);" extends_type="crc6488302ad6e9e4df1a.MauiApplication" is_application="True" partial_assembly_qualified_name="opg7Menu.MainApplication, opg7Menu" application_constructor="MainApplication" />
+  </jcw-types>
+  <acw-types partial-assembly-name="opg7Menu" module-name="opg7Menu.dll">
+    <type assembly-qualified-name="opg7Menu.MainActivity, opg7Menu, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" compat-jni-name="opg7menu.MainActivity" java-key="crc64a0464151aec2d80b.MainActivity" managed-key="opg7Menu.MainActivity" partial-assembly-qualified-name="opg7Menu.MainActivity, opg7Menu" />
+    <type assembly-qualified-name="opg7Menu.MainApplication, opg7Menu, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" compat-jni-name="opg7menu.MainApplication" java-key="crc64a0464151aec2d80b.MainApplication" managed-key="opg7Menu.MainApplication" partial-assembly-qualified-name="opg7Menu.MainApplication, opg7Menu" />
+  </acw-types>
+</api>

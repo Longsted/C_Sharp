@@ -95,3 +95,4 @@ C:\Users\niels\RiderProjects\C_Sharp\musicstore\obj\Debug\net10.0\refint\musicst
 C:\Users\niels\RiderProjects\C_Sharp\musicstore\obj\Debug\net10.0\musicstore.pdb
 C:\Users\niels\RiderProjects\C_Sharp\musicstore\obj\Debug\net10.0\musicstore.genruntimeconfig.cache
 C:\Users\niels\RiderProjects\C_Sharp\musicstore\obj\Debug\net10.0\ref\musicstore.dll
+C:\Users\niels\RiderProjects\C_Sharp\musicstore\obj\Debug\net10.0\musicstore.sourcelink.json

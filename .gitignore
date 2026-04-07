@@ -1,0 +1,32 @@
+# Build folders
+bin/
+obj/
+
+# Rider / IntelliJ
+.idea/
+
+# VS / Rider user files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# NuGet
+*.nupkg
+packages/
+
+# Entity Framework
+*.db
+
+# dotenv
+.env
+
+# Rider caches
+*.DotSettings.user

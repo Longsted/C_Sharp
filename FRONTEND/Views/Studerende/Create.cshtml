@@ -1,0 +1,23 @@
+﻿@model Domain.Studerende
+
+<h2>Opret studerende</h2>
+
+<form method="post">
+    <input name="Navn" placeholder="Navn" />
+    <input name="Alder" type="number" />
+    <input name="StudieStart" type="date" />
+
+    <select name="StudieType">
+        <option value="BACHELOR">Bachelor</option>
+        <option value="MASTER">Master</option>
+        <option value="ENKELTFAG">Enkeltfag</option>
+        <option value="VIDEREUDDANNELSE">Videreuddannelse</option>
+    </select>
+
+    <button type="submit">Gem</button>
+</form>
+
+@if (ViewBag.Error != null)
+{
+    <p style="color:red">@ViewBag.Error</p>
+}

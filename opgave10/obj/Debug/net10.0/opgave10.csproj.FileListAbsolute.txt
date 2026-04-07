@@ -12,3 +12,4 @@ C:\Users\niels\RiderProjects\C_Sharp\opgave10\obj\Debug\net10.0\refint\opgave10.
 C:\Users\niels\RiderProjects\C_Sharp\opgave10\obj\Debug\net10.0\opgave10.pdb
 C:\Users\niels\RiderProjects\C_Sharp\opgave10\obj\Debug\net10.0\opgave10.genruntimeconfig.cache
 C:\Users\niels\RiderProjects\C_Sharp\opgave10\obj\Debug\net10.0\ref\opgave10.dll
+C:\Users\niels\RiderProjects\C_Sharp\opgave10\obj\Debug\net10.0\opgave10.sourcelink.json

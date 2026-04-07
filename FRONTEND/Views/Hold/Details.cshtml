@@ -1,0 +1,34 @@
+﻿@model Domain.Hold
+
+<h2>@Model.Navn</h2>
+
+<h3>Studerende på hold</h3>
+
+<ul>
+    @foreach (var s in Model.Studerendes)
+    {
+        <li>
+            @s.Navn
+            <a href="/Hold/RemoveStuderende?holdId=@Model.Id&studerendeId=@s.Id">
+                Fjern
+            </a>
+        </li>
+    }
+</ul>
+
+<h3>Tilføj studerende</h3>
+
+<ul>
+    @foreach (var s in ViewBag.Studerende)
+    {
+        if (s.HoldId == null)
+        {
+            <li>
+                @s.Navn
+                <a href="/Hold/AddStuderende?holdId=@Model.Id&studerendeId=@s.Id">
+                    Tilføj
+                </a>
+            </li>
+        }
+    }
+</ul>

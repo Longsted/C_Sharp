@@ -16,3 +16,4 @@ C:\Users\niels\RiderProjects\C_Sharp\lektion_1\obj\Debug\net10.0\refint\lektion_
 C:\Users\niels\RiderProjects\C_Sharp\lektion_1\obj\Debug\net10.0\lektion_1.pdb
 C:\Users\niels\RiderProjects\C_Sharp\lektion_1\obj\Debug\net10.0\lektion_1.genruntimeconfig.cache
 C:\Users\niels\RiderProjects\C_Sharp\lektion_1\obj\Debug\net10.0\ref\lektion_1.dll
+C:\Users\niels\RiderProjects\C_Sharp\lektion_1\obj\Debug\net10.0\lektion_1.sourcelink.json
